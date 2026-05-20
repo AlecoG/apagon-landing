@@ -6,3 +6,7 @@
 [2026-05-20T17:13:43.736Z] ➜  Network: http://169.254.0.21:3000/
 [2026-05-20T17:16:29.167Z] 5:16:29 PM [vite] (client) page reload index.html
 [2026-05-20T17:17:43.922Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-05-20T17:35:51.405Z] 5:35:51 PM [vite] (client) page reload index.html
+[2026-05-20T17:35:51.493Z] 5:35:51 PM [vite] changed tsconfig file detected: /home/ubuntu/apagon-landing/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-05-20T17:35:51.495Z] 5:35:51 PM [vite] (client) page reload client/index.html
+[2026-05-20T17:35:54.320Z] 5:35:54 PM [vite] (client) page reload index.html

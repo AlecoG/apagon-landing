@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
+.manus-logs/
+.manus/
+.vite/
+client/
+.project-config.json
