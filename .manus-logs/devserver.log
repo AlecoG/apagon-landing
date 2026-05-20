@@ -18,3 +18,9 @@
 [2026-05-20T17:46:37.196Z] 5:46:37 PM [vite] changed tsconfig file detected: /home/ubuntu/apagon-landing/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
 [2026-05-20T17:46:37.197Z] 5:46:37 PM [vite] (client) page reload client/index.html
 [2026-05-20T17:46:40.640Z] 5:46:40 PM [vite] (client) page reload index.html
+[2026-05-20T17:57:33.605Z] 5:57:33 PM [vite] (client) page reload index.html
+[2026-05-20T17:57:33.698Z] 5:57:33 PM [vite] changed tsconfig file detected: /home/ubuntu/apagon-landing/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-05-20T17:57:33.699Z] 5:57:33 PM [vite] (client) page reload client/index.html
+[2026-05-20T17:57:41.892Z] 5:57:41 PM [vite] (client) page reload index.html
+[2026-05-20T17:58:14.434Z] 5:58:14 PM [vite] (client) page reload index.html
+[2026-05-20T17:58:19.622Z] 5:58:19 PM [vite] (client) page reload index.html
