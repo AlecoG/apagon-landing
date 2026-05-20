@@ -1,0 +1,8 @@
+[2026-05-20T17:13:41.483Z] Starting dev server with command: pnpm run dev
+[2026-05-20T17:13:43.271Z] > apagon-landing@1.0.0 dev /home/ubuntu/apagon-landing
+[2026-05-20T17:13:43.272Z] > vite --host
+[2026-05-20T17:13:43.735Z] VITE v7.1.9  ready in 425 ms
+[2026-05-20T17:13:43.736Z] ➜  Local:   http://localhost:3000/
+[2026-05-20T17:13:43.736Z] ➜  Network: http://169.254.0.21:3000/
+[2026-05-20T17:16:29.167Z] 5:16:29 PM [vite] (client) page reload index.html
+[2026-05-20T17:17:43.922Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`

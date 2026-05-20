@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663680038966/aoW2fsZE6qVVFAr8vyfDcF",
+    "access_key_id": "ASIAZV3A2ECZP6BA7NTO",
+    "secret_access_key": "QaydyxYw7IGBSOEkpume/w93y2sP2bk17dDkXCpt",
+    "session_token": "IQoJb3JpZ2luX2VjECoaCXVzLWVhc3QtMSJGMEQCIE4CNVXFfR/ADODtXywLaB0hFGb6YbO8+6ACbiikkF6sAiBN0kG+Fc2tw9DUvFxk8C+KxTwA1Zs6h+CK15+b4bkViir+Awjy//////////8BEAQaDDY2NTM4NjA5ODg2NiIMZZHq9gc7YnrHzsvwKtIDovRyZlKLKjoKbme/mxLB52SP8sILcjH+bRvI4sI9pYF4U3hKnhjV1zDiU7uvzxbEWAa+yvD1O9xONvW1mMW9wB/byJO9uAbUJAkq9qYFtiz4UdsARzAp0dwEgABFd8qFYY3zrkn+xiNsbrvwxx/gB+pFQ5P51ZyC/YM/2S1NOYABNz3giRVXyULcRtAjdLeG1c3Kg91IvB9Om6y5x+pPNVEq8m9ks9XfMoFGvN7BBna/d7EvTOPnpchHquxhubkQg3oMHHoehpC0y/wpbHdi/r5r0+fd09U3KLt5eieUcm11AYnWDt3IYuV9wSaST+o5+qmImiFn+VbEf1fB78zJhFPmPW8uMNIBi/RjQsuD8haZ8UhMkte+nOawCrQpYcH7fsDzon+20swJffg8TJhblivtp3kc0zWZouxUtj+COFEVZQodC/l59d+sqV917Q/0j63hifaQDNfs1ehwKItmoIiu2fFVFUbAFgknueuerFpxBR1qVP2n3fpjBq9FFukD4ESrJNEJP2aEgh5kWh/I/Ez+vXFS1v4Cl1OgP9a/WbcQSWhhp9T8rs1eNPl02klVAX3tS0bgzKXA4YtEh1tDQ0DQS9eFPg/+NlkoisjkukNSnTC717fQBjqeARLtINj2aasB9SeESqKQQ7OSAbom+zB83/6se18VbgEepRacdhOvzcMfqKHDkYLeFeL3fBzM2KsTg/T52N/bqp+EEa9VP+vHjqEYWptK8AjQi1mEb+qk0kOwWCY6334HJ/9AzYUlZbPYDMcqHMagZuAEJT2mByBpKZGT4tIdkOA2unzLeRIwy4kMCw1MP2PlS6LhN1UlK8Bli8HUZjDF",
+    "expiration": "2026-05-21T05:13:31.000Z"
+  },
+  "name": "apagon-landing",
+  "path": "/home/ubuntu/apagon-landing",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "hMPcYyFtVGX8b6DRwVUmZC",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "eLALqU774Lxbuk8HvnUbJq",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Alejandro González Barrera",
+    "OWNER_OPEN_ID": "HmFnET7gyRuiuCdscd2GBH",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "d7f73218-fa92-46e5-a252-3f904507b6b9",
+    "VITE_APP_ID": "aoW2fsZE6qVVFAr8vyfDcF",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Apagones en La Habana",
+    "VITE_FRONTEND_FORGE_API_KEY": "iYLT4docQ6mWv5mJsivDwT",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
